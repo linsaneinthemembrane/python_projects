@@ -1,6 +1,5 @@
 """A word game with 6 turns to guess the secret word!"""
 
-__author__ = "730465832"
 secret_word = "codes"
 
 
